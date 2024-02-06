@@ -178,5 +178,5 @@ You First Need to Download Windows 10 image file (.iso).
 20. To Close OS. Click “Shut Down Guest”
 
 # **GitHub Link**:
-https://github.com/Muhammad-Abdul-Barr/OS-Manuals/Windows-Installation(Lab-01)
+https://github.com/Muhammad-Abdul-Barr/OS-Manuals/tree/main/Windows%20Installation%20(Lab%2001)
 
